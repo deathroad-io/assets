@@ -1,10 +1,5 @@
 {
-    "android": {
-        "link": "https://github.com/deathroad-io/assets/blob/master/game/testnet/android/drace-0.0.22.apk?raw=true",
-        "version": "0.0.22"
-    },
-    "ios": {
-        "link": "https://testflight.apple.com/join/ODh5GVB2",
-        "version": "0.0.22"
-    }
+    "version": "0.0.22",
+    "android": "https://github.com/deathroad-io/assets/blob/master/game/testnet/android/drace-0.0.22.apk?raw=true",
+    "ios": "https://testflight.apple.com/join/ODh5GVB2"
 }
