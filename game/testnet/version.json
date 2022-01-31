@@ -1,5 +1,5 @@
 {
-    "version": "0.0.23",
-    "android": "https://github.com/deathroad-io/assets/blob/master/game/testnet/android/drace-0.0.23.apk?raw=true",
+    "version": "0.0.24",
+    "android": "https://github.com/deathroad-io/assets/blob/master/game/testnet/android/drace-0.0.24.apk?raw=true",
     "ios": "https://testflight.apple.com/join/ODh5GVB2"
 }
